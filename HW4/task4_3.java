@@ -1,3 +1,4 @@
+// Найдите сумму всех элементов LinkedList, сохраняя все элементы в списке. Используйте итератор
 package HW4;
 import java.util.Iterator;
 import java.util.LinkedList;
